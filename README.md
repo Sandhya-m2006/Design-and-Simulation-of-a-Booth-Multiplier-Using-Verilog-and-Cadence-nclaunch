@@ -4,7 +4,7 @@
 To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify its functionality in **Cadence nclaunch**.
 
 ## Tools Required
-### Cadence EDA Suite
+### Cadence EDA Suite 
 - **Cadence nclaunch** (for simulation)
 
 ### Computer System
